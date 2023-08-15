@@ -1,6 +1,6 @@
 # Сурагчдийн бүтээл
 
-1. Ц.Нарангоо:
+1. Ц.Нарангоо: [Энд дарж үзнэ](http://127.0.0.1:5500/lesson8/about.html)
 2. Дэлгэрмөрөн: [Энд дарж үзнэ](https://dekudekune.github.io/portfolio)
 3. Билгүүндалай:
 4. Хосбаяр: [Энд дарж үзнэ](https://hosoohosbayr.github.io/First-web)
